@@ -2,7 +2,7 @@
 - name: Análisis de un ataque de red interpretando logs de Wireshark para identificar patrones de tráfico malicioso y evaluar vulnerabilidades
   gh_user: BastianSec
   repo: analisis-ataques-red
-  img: https://github.com/BastianSec/BastianSec.github.io/blob/main/images/logos/wireshark.png
+  img: /images/logos/wireshark.png
 
 - name: A regular rebuild and hosting of the TOR snowflake project (to provide access to censored websites)
   gh_user: BastianSec
