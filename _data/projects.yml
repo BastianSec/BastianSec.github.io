@@ -12,7 +12,7 @@
 - name: Auditoría interna para completar una evaluación de los controles sobre los activos de una organización
   gh_user: BastianSec
   repo: Auditoria-Control-Activos-Organizacion
-  img: /images/logos/AssetsSecurity.webp
+  img: /images/logos/AssetsSecurity.jpg
 
 - name: A Wordle Sover as Blazer WebAssembly
   gh_user: BastianSec
