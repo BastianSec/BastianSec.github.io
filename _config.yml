@@ -9,12 +9,12 @@ google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: thomas@zuehlke.cloud
+  name: 'Bastián Venegas'
+  email: batian.venegas.morales@gmail.com
   mastodon: tzuehlke@mstdn.social
   twitter_username: thomzuehlke
 #  facebook_username: joshgerdes
-  github_username:  tzuehlke
+  github_username:  BastianSec
   linkedin_username:  thomas-zühlke-889182165
   meetup_name: Azure-Meetup-Rostock-MV
 
