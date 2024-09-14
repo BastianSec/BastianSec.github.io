@@ -9,10 +9,10 @@
   repo: Analisis-Ataques-Red
   img: /images/logos/wireshark.png
 
-- name: A regular rebuild and hosting of the TOR snowflake project (to provide access to censored websites)
+- name: Auditoría interna para completar una evaluación de los controles sobre los activos de una organización
   gh_user: BastianSec
-  repo: snowflake
-  img: https://blog.zuehlke.cloud/wp-content/uploads/2023/05/snowflake-logs.png
+  repo: Auditoria-Control-Activos-Organizacion
+  img: /images/logos/AssetsSecurity.webp
 
 - name: A Wordle Sover as Blazer WebAssembly
   gh_user: BastianSec
