@@ -23,3 +23,8 @@
   gh_user: BastianSec
   repo: Analisis-Comunicacion-Capa-Red
   img: /images/logos/traffic.jpg
+
+- name: Mejorar la Autenticación, Autorización y Trazabilidad de una pequeña empresa mediante la recomendación de medidas de control de acceso
+  gh_user: BastianSec
+  repo: Mejora-Autenticacion-Autorizacion-Trazabilidad-Pequena-Empresa
+  img: /images/logos/access.jpg
