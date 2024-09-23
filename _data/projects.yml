@@ -28,3 +28,8 @@
   gh_user: BastianSec
   repo: Mejora-Autenticacion-Autorizacion-Trazabilidad-Pequena-Empresa
   img: /images/logos/access.jpg
+
+- name: Uso de un Playbook para responder a un incidente de seguridad
+  gh_user: BastianSec
+  repo: Uso-Playbook-Respuesta-Incidente
+  img: /images/logos/playbook.png
