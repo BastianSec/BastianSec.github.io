@@ -13,3 +13,8 @@
   gh_user: BastianSec
   repo: Auditoria-Control-Activos-Organizacion
   img: /images/logos/AssetsSecurity.jpg
+
+- name: Propuesta de prácticas de reforzamiento de la red de una organización de redes sociales 
+  gh_user: BastianSec
+  repo: Reforzamiento-Seguridad-Red
+  img: /images/logos/hardening.jpg
