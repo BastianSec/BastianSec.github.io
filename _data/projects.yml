@@ -18,3 +18,8 @@
   gh_user: BastianSec
   repo: Reforzamiento-Seguridad-Red
   img: /images/logos/hardening.jpg
+
+- name: Análisis del tráfico DNS e ICMP de una red
+  gh_user: BastianSec
+  repo: Analisis-Comunicacion-Capa-Red
+  img: /images/logos/traffic.jpg
