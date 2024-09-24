@@ -33,3 +33,13 @@
   gh_user: BastianSec
   repo: Uso-Playbook-Respuesta-Incidente
   img: /images/logos/playbook.png
+
+- name: Uso del NIST Cybersecurity Framework para responder ante un incidente
+  gh_user: BastianSec
+  repo: Uso-NIST-Respuesta-Incidente
+  img: /images/logos/nist.png
+
+- name: Clasificación de activos de una pequeña empresa
+  gh_user: BastianSec
+  repo: Clasificacion-Activos-Empresa-Pequena
+  img: /images/logos/assetsempresa.png
